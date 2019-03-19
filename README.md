@@ -6,8 +6,9 @@ This project is about a mobile marketplace app with about 6000 sellers and milli
 The data includes total number of listings of products, brands, number of orders placed from that seller and the total value of the products sold from that seller. 
 Each seller has customers following with numbers ranging from 10's to 1000's. Some sellers have shares in the marketplace app and some don't.
 
+Our aim in the project is to identify if a seller responds to a new feature introduced on the Marketplace App. 
 
-Our aim in the project is to identify if a seller responds to a new feature introduced on the Marketplace App. We have used True Positve rate (TPR) as the metric to judge a model.
+### We have used True Positve rate (TPR) as the metric to judge a model.
 
 To achieve this we have implemented following techniques/algorithms:
 
